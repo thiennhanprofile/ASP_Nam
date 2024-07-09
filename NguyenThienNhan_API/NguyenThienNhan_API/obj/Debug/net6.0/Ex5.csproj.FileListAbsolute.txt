@@ -1,0 +1,130 @@
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Ex5.exe
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Ex5.deps.json
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Ex5.runtimeconfig.json
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Ex5.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Ex5.pdb
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.AssemblyInfo.cs
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\staticwebassets\msbuild.Ex5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\staticwebassets\msbuild.build.Ex5.props
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ex5.props
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ex5.props
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\scopedcss\bundle\Ex5.styles.css
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.csproj.CopyComplete
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\refint\Ex5.dll
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.pdb
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\Ex5.genruntimeconfig.cache
+C:\Users\hp\Desktop\Project_ASP.NET\Ex5\obj\Debug\net6.0\ref\Ex5.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\appsettings.Development.json
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\appsettings.json
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Ex5.exe
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Ex5.deps.json
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Ex5.runtimeconfig.json
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Ex5.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Ex5.pdb
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Humanizer.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Ex5 - Copy\Ex5 - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.csproj.AssemblyReference.cache
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.AssemblyInfoInputs.cache
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.AssemblyInfo.cs
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.csproj.CoreCompileInputs.cache
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.MvcApplicationPartsAssemblyInfo.cs
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.MvcApplicationPartsAssemblyInfo.cache
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\staticwebassets.build.json
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\staticwebassets.development.json
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\staticwebassets\msbuild.Ex5.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\staticwebassets\msbuild.build.Ex5.props
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Ex5.props
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Ex5.props
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\scopedcss\bundle\Ex5.styles.css
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.csproj.Up2Date
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.dll
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\refint\Ex5.dll
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.pdb
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\Ex5.genruntimeconfig.cache
+D:\Ex5 - Copy\Ex5 - Copy\obj\Debug\net6.0\ref\Ex5.dll
